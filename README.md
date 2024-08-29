@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">Conhecimento</h2>
+<h2 align="left">Conhecimento/Aprendendo</h2>
 
 ###
 
